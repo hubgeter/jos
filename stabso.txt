@@ -1,0 +1,50 @@
+0      SO     0      0      f0100000 1      {standard input}
+1      SOL    0      0      f010000c 18     kern/entry.S
+14     SO     0      2      f0100040 31     kern/entrypgdir.c
+65     SO     0      0      f0100040 0      
+66     SO     0      2      f0100040 2639   kern/init.c
+141    SO     0      0      f010019c 0      
+142    SO     0      2      f01001a0 2922   kern/console.c
+173    SOL    0      0      f01001a3 2937   ./inc/x86.h
+175    SOL    0      0      f01001a9 2922   kern/console.c
+177    SOL    0      0      f01001ad 2937   ./inc/x86.h
+179    SOL    0      0      f01001b0 2922   kern/console.c
+198    SOL    0      0      f0100200 2937   ./inc/x86.h
+200    SOL    0      0      f0100206 2922   kern/console.c
+203    SOL    0      0      f0100216 2937   ./inc/x86.h
+205    SOL    0      0      f010021b 2922   kern/console.c
+231    SOL    0      0      f01002f6 2937   ./inc/x86.h
+233    SOL    0      0      f0100301 2922   kern/console.c
+247    SOL    0      0      f0100327 2937   ./inc/x86.h
+249    SOL    0      0      f010033c 2922   kern/console.c
+253    SOL    0      0      f010034d 2937   ./inc/x86.h
+256    SOL    0      0      f010036d 2922   kern/console.c
+258    SOL    0      0      f0100376 2937   ./inc/x86.h
+260    SOL    0      0      f010038e 2922   kern/console.c
+283    SOL    0      0      f01004c7 2937   ./inc/x86.h
+285    SOL    0      0      f01004cf 2922   kern/console.c
+287    SOL    0      0      f01004df 2937   ./inc/x86.h
+289    SOL    0      0      f01004ef 2922   kern/console.c
+329    SOL    0      0      f01005c2 2937   ./inc/x86.h
+331    SOL    0      0      f01005ca 2922   kern/console.c
+333    SOL    0      0      f01005cd 2937   ./inc/x86.h
+335    SOL    0      0      f01005d0 2922   kern/console.c
+337    SOL    0      0      f01005d6 2937   ./inc/x86.h
+340    SOL    0      0      f01005e1 2922   kern/console.c
+344    SOL    0      0      f01005f3 2937   ./inc/x86.h
+347    SOL    0      0      f0100638 2922   kern/console.c
+349    SOL    0      0      f0100643 2937   ./inc/x86.h
+351    SOL    0      0      f0100649 2922   kern/console.c
+386    SO     0      0      f010068c 0      
+387    SO     0      2      f0100690 3640   kern/monitor.c
+498    SO     0      0      f0100951 0      
+499    SO     0      2      f0100951 4227   kern/printf.c
+551    SO     0      0      f01009b1 0      
+552    SO     0      2      f01009b1 4409   kern/kdebug.c
+677    SO     0      0      f0100c67 0      
+678    SO     0      2      f0100c70 4790   lib/printfmt.c
+888    SO     0      0      f0101232 0      
+889    SO     0      2      f0101240 5552   lib/readline.c
+944    SO     0      0      f010130a 0      
+945    SO     0      2      f0101310 5691   lib/string.c
+1214   SO     0      0      f0101696 0      
